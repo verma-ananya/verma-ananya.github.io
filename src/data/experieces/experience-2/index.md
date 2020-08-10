@@ -1,11 +1,10 @@
 ---
 category: 'experiences'
-company: 'Aizoon Reply'
-position: 'UI/UX Designer'
-startDate: 'Jan 2011'
-endDate: 'May 2013'
+company: 'Planful, Hyderabad'
+position: 'Software Engineer Intern'
+startDate: 'May 2019'
+endDate: 'Jul 2019'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<li>Performed Unit Testing to increase code coverage of the EPM solution for the Reporting Team and worked on Aspose Cells library to customize, manipulate and generate the worksheets in Dynamic Report Generation. <br />
+<li>Technologies and Libraries used: C#, .NET, NUnit Framework, MOQ Library, Ninject and Postman API.

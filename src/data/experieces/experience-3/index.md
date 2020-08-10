@@ -1,9 +1,11 @@
 ---
 category: 'experiences'
-company: 'Facebook'
-position: 'Frontend Developer'
-startDate: 'May 2013'
-endDate: 'Jun 2015'
+company: 'ThoughtFocus, Gurgaon'
+position: 'Quality Assurance Intern'
+startDate: 'Jan 2020'
+endDate: 'Jun 2020'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<li>Performed System, Regression and Integration Testing on Desktop and Anaplan based Fund Accounting System. <br/>
+<li>Technologies and softwares used: JIRA, Anaplan and HRM Application (company specific) <br/>
+<li>Certification: Certified Anaplan Model Builder.

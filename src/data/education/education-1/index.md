@@ -1,9 +1,10 @@
 ---
 category: 'education'
-university: 'Columbia University'
-degree: 'Bachelor'
-startDate: 'Oct 2005'
-endDate: 'Jul 2008'
+university: 'Delhi Public School, Bhilai, India'
+degree: 'Intermediate Level /+2'
+startDate: 'April 2013'
+endDate: 'May 2015'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<li>CBSE Board, Class 12th Percentage: 91% <br/>
+<li>Physics, Chemistry, Mathematics and Computer Science.

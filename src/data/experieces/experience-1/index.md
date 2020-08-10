@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'Forge Inc'
-position: 'UI/UX Designer'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+company: 'Spotmentor Technologies, Gurgaon'
+position: 'Data Science Intern'
+startDate: 'May 2018'
+endDate: 'Jun 2018'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<li>Performed webscraping and developed a Deep Learning CNN Model predicting the Job Department from Job Description and compared the model with other classifiers e.g. SVM classifier model, Decision Tree, Logistic Regression, Naive Bayes. <br /> <li>Technologies and Libraries used: Python, Keras API.

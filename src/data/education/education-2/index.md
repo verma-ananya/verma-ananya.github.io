@@ -1,9 +1,10 @@
 ---
 category: 'education'
-university: 'Stanford University'
-degree: 'Master of Science'
-startDate: 'Oct 2008'
-endDate: 'Jul 2010'
+university: 'IIIT Raipur'
+degree: 'Bachelor of Technology in Computer Science'
+startDate: 'Oct 2016'
+endDate: 'Jul 2020'
 ---
+<li>CGPA : 9.20 <br/>
+<li>Courses: Data Structures and Algorithm, Design and Analysis of Algorithm, Computer Organization, Database Management System, Operating System, Compiler Design, Object Oriented Methodology, Software Engineering, Computer Networks, Cyptography, Formal Languages and Automata Theory, Data Mining, Machine Learning, Artificial Intelligence, Big Data.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborist.
