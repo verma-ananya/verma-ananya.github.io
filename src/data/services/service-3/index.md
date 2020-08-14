@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Copywrite'
+title: 'Technical Writer'
 icon: 'edit'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'I wrote technical articles for OpenGenus Foundation. (https://iq.opengenus.org/author/ananya/) & Checkout my blogs under Blog section.'
 ---

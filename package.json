@@ -1,9 +1,9 @@
 {
   "name": "gatsby-personal-website-starter",
   "private": true,
-  "description": "Gatsby Markdown Personal Website Starter, using Typescript, Styled Components, Tailwindcss and Framer Motion.",
+  "description": "Personal Website, using Gatsby, Typescript, Styled Components, Tailwindcss and Framer Motion.",
   "version": "0.1.0",
-  "author": "Saimir Kapaj",
+  "author": "Ananya Verma",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "@fortawesome/free-brands-svg-icons": "^5.13.0",
@@ -45,6 +45,7 @@
     "@types/react-helmet": "^5.0.15",
     "@types/react-slick": "^0.23.4",
     "@types/styled-components": "^5.1.0",
+    "gh-pages": "^3.1.0",
     "prettier": "^2.0.5"
   },
   "keywords": [
@@ -57,15 +58,12 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "deploy":"gatsby build && gh-pages -d public -b master",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/SaimirKapaj/gatsby-markdown-typescript-personal-website"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"

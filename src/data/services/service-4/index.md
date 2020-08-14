@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Digital Marketing'
-icon: 'bullhorn'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+title: 'Data Science'
+icon: 'chart-line'
+description: 'I have working experience in Machine Learning,  Deep Learning and Natural Language Processing. Check out my work under Project section.'
 ---

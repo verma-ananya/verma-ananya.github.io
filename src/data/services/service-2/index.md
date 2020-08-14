@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Graphic Design'
-icon: 'draw-polygon'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+title: 'Full Stack Developer'
+icon: 'laptop-code'
+description: 'I am familiar and experienced in tech stack mainly, React, Node, Django, MongoDB, MySQL'
 ---

@@ -40,7 +40,7 @@ export const ToogleMainNav = styled.button<StyledProps>`
 
   span {
     ${tw`bg-indigo-500 inline-block w-6 h-px`};
-    transition: 0.2s;
+    transition: 0.3s;
 
     &:first-child {
       ${({ open }) => (open ? tw`-mb-px` : tw`mb-1`)};

@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Web Design'
-icon: 'laptop-code'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+title: 'Competitive Programmer'
+icon: 'code'
+description: 'I am a Competitive Programmer with handles on online judges: Hackerrank (lincolnav829), Codechef (verma_ananya)'
 ---

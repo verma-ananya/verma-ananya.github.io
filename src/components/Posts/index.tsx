@@ -77,6 +77,7 @@ const Posts: React.FC = () => {
     <Container section>
       <TitleSection title={sectionTitle.title} subtitle={sectionTitle.subtitle} center />
       <Styled.Posts>
+        {console.log(posts)}
         {posts.map((item) => {
           const {
             id,
