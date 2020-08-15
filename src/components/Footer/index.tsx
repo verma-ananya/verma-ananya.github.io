@@ -17,9 +17,9 @@ const Footer: React.FC = () => (
         <Styled.Link href="https://twitter.com/ananyav06" rel="noreferrer noopener" target="_blank">
           Twitter
         </Styled.Link>
-        <Styled.Link href="https://www.hackerrank.com/lincolnav829" rel="noreferrer noopener" target="_blank">
+        {/* <Styled.Link href="https://www.hackerrank.com/lincolnav829" rel="noreferrer noopener" target="_blank">
           Hackerrank
-        </Styled.Link>
+        </Styled.Link> */}
         <Styled.Link href="https://www.instagram.com/ms.vama/" rel="noreferrer noopener" target="_blank">
           Instagram
         </Styled.Link>
